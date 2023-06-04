@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Hey! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width=100> I'm [Anshul Sinha] 
+### A passionate Programmer and Learner
+
+
+![](https://leetcard.jacoblin.cool/alpha1822?animation=true)
+
+
+
+
