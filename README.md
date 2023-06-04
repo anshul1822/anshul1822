@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### A passionate Programmer and Learner
 
 
-![](https://leetcard.jacoblin.cool/alpha1822?animation=true)
+![](https://leetcard.jacoblin.cool/alpha_1822?animation=true)
 
 
 
