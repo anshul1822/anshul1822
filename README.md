@@ -16,13 +16,12 @@ Here are some ideas to get you started:
 -->
 
 
-# Hey! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width=100> I'm [Anshul Sinha] 
+# Hey! I'm [Anshul Sinha] 
 ### A passionate Programmer and Learner
-
 
 ![](https://leetcard.jacoblin.cool/alpha_1822?animation=true)
 <a href="https://github.com/anshul1822">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshul1822&theme=default&layout=compact&langs_count=10&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/username=anshul1822&theme=default&layout=compact&langs_count=10&hide_langs_below=1/>
 </a> 
 
 
