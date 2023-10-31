@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hey! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width=100> I'm [Anshul Sinha] 
+# Hey! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width=100> I'm Anshul Sinha 
 ### A passionate Programmer and Learner
 
  ![](https://leetcard.jacoblin.cool/alpha_1822?animation=true)
